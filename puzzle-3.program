@@ -1,0 +1,12 @@
+down
+down
+var correctColor
+correctColor=getColor
+down
+down
+down
+right
+right
+setColor(correctColor)
+right
+up
