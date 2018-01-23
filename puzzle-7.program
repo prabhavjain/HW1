@@ -13,7 +13,7 @@ right
 
 moveToRed
 moveToRed
-{
+
 while (getColor != "red"){
 down
 }
