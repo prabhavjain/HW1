@@ -1,0 +1,23 @@
+function repeat {
+right
+
+var correctColor
+correctColor=getColor
+
+down
+
+setColor(correctColor)
+
+right
+right
+}
+down
+down
+down
+down
+
+repeat
+
+up
+
+repeat
