@@ -1,0 +1,11 @@
+function repeat(direction){
+var count= 0
+while count<10
+direction
+setColor("Red")
+count= count+1
+}
+repeat(down)
+repeat(right)
+repeat(up)
+repeat(left)
