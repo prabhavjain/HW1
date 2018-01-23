@@ -1,6 +1,6 @@
 var count = 0
 
-while(count < 7){
+while(count < 6){
 down
 count = count + 1
 }
