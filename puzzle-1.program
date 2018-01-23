@@ -1,15 +1,15 @@
-var count = 0
+var count1 = 0
 
-while(count1 < 8){
+while(count1 < 7){
 down
 count1 = count1 + 1
 }
 
 var count2 = 0
 
-while(count2 < 6){
+while(count2 < 5){
 right
-count1 = count2 + 1
+count2 = count2 + 1
 }
 
 up
