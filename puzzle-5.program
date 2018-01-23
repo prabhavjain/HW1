@@ -1,0 +1,15 @@
+function move {
+right
+right
+if (getColor == blue){
+down
+}
+else{up}
+
+}
+move
+move
+move
+right
+right
+right
