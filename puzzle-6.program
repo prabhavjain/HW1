@@ -1,22 +1,22 @@
-right
+right();
 
-if(getColor == "red"){
-  up
-  up
-  up
+if(getColor() == "red"){
+  up();
+  up();
+  up();
 
-  if(getColor == "red"){
-    left
-    up
+  if(getColor() == "red"){
+    left();
+    up();
   }else{
-    right
-    up
+    right();
+    up();
   }
     
 }else{
-  down
-  down
-  down
-  left
-  down
+  down();
+  down();
+  down();
+  left();
+  down();
 }
