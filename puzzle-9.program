@@ -1,11 +1,11 @@
 function repeat(direction){
-var count= 0
+var count = 0;
 while (count<9){
-direction
-setColor("Red")
-count= count+1
+direction();
+setColor("red");
+count= count+1;
 }}
-repeat(down)
-repeat(right)
-repeat(up)
-repeat(left)
+repeat(down);
+repeat(right);
+repeat(up);
+repeat(left);
